@@ -1,0 +1,4 @@
+# TC5: Fall back to primary when secondary is empty
+GT4500,2,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
